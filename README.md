@@ -19,3 +19,5 @@ This work takes a reserve-based approach. When choosing which units are to be pu
 If all units are to be put under maintanence, the total sum of reserve over the 12 weeks will be the same regardless of the maintenance schedule. However, it may be very low under some weeks and excessively high in other weeks. Hence, it is important to keep this reserve steady over all 12 weeks. Please refer to "Reserve.png" for an illusration of this idea. 
 
 In other words, we want the reserve values over each week to be very close to each other. This can be achieved by minimizing an L1 norm. Naturally, such an optimization problem can be linearized. 
+
+# Note: The code exists in ".mlx" and ".m" forms. 

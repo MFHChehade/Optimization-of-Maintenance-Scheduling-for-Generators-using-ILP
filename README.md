@@ -20,4 +20,5 @@ If all units are to be put under maintanence, the total sum of reserve over the 
 
 In other words, we want the reserve values over each week to be very close to each other. This can be achieved by minimizing an L1 norm. Naturally, such an optimization problem can be linearized. 
 
-# Note: The code exists in ".mlx" and ".m" forms. 
+### Note: The code exists in ".mlx" and ".m" forms. 
+#### The ".mlx" version is suggested for better interpretability. 
